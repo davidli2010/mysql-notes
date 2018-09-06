@@ -1,5 +1,4 @@
-# mysql-notes
-MySQL Notes
+# MySQL Notes
 
 ## Reference
 - [MySQL Internals Manual](https://dev.mysql.com/doc/internals/en/)
@@ -13,4 +12,5 @@ MySQL Notes
     - [Plugin API Characteristics](plugin-api-characteristics.md)
     - [Plugin API Components](plugin-api-components.md)
     - [Writing Plugins](writing-plugins.md)
+    - [Plugin Data Structures](plugin-data-structures.md)
 - [Writing a Custom Storge Engine](writing-a-custom-storage-engine.md)
