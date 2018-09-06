@@ -15,3 +15,4 @@
     - [Plugin Data Structures](plugin-data-structures.md)
 - [MySQL Services for Plugins](mysql-services-for-plugins.md)
 - [Writing a Custom Storge Engine](writing-a-custom-storage-engine.md)
+    - [Creating the handlerton](creating-the-handlerton.md)
