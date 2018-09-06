@@ -17,3 +17,4 @@
 - [Writing a Custom Storge Engine](writing-a-custom-storage-engine.md)
     - [Creating the handlerton](creating-the-handlerton.md)
     - [Handling Handler Instantiation](handling-handler-instantiation.md)
+    - [Defining Filename Extensions](defining-filename-extensions.md)
