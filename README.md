@@ -19,3 +19,4 @@
     - [Handling Handler Instantiation](handling-handler-instantiation.md)
     - [Defining Filename Extensions](defining-filename-extensions.md)
     - [Creating Tables](creating-tables.md)
+    - [Opening a Table](opening-a-table.md)
