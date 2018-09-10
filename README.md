@@ -25,3 +25,4 @@
     - [Adding Support for INSERT](adding-support-for-insert.md)
     - [Adding Support for UPDATE](adding-support-for-update.md)
     - [Adding Support for DELETE](adding-support-for-delete.md)
+    - [Supporting Non-Sequential Reads](supporting-non-sequential-reads.md)
