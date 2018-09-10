@@ -23,3 +23,4 @@
     - [Closing a Table](closing-a-table.md)
     - [Implementing Basic Table Scanning](implementing-basic-table-scanning.md)
     - [Adding Support for INSERT](adding-support-for-insert.md)
+    - [Adding Support for UPDATE](adding-support-for-update.md)
