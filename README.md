@@ -6,6 +6,7 @@
 
 ## MySQL Internals
 
+- [Data Types](data-types.md)
 - [MySQL Threads](mysql-threads.md)
 - [The MySQL Plugin API](mysql-plugin-api.md)
     - [Types of Plugins](types-of-plugin.md)
