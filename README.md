@@ -26,3 +26,4 @@
     - [Adding Support for UPDATE](adding-support-for-update.md)
     - [Adding Support for DELETE](adding-support-for-delete.md)
     - [Supporting Non-Sequential Reads](supporting-non-sequential-reads.md)
+    - [Supporting Transactions](supporting-transactions.md)
